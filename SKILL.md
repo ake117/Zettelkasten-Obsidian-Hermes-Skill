@@ -25,7 +25,7 @@ If the request is broad or does not clearly match one route, default to `referen
 
 - Classification guidance and Q&A: answer in chat
 - Validation workflows: run `scripts/validate.sh` via terminal and write report output to `ZK-validation-YYYY-MM-DD.md` in the vault root
-- When creating notes, write directly to the Obsidian vault at `/home/ake/Documents/ake_obsidian/`
+- When creating notes, write directly to the Obsidian vault at [you vault path]
 
 ## Terminology
 
